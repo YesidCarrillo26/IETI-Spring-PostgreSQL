@@ -3,3 +3,4 @@
 
 - Yesid Carrillo
 - David Leon
+- Juan Camilo Molina
