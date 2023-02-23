@@ -1,5 +1,5 @@
 # IETI-Spring-PostgreSQL
 ### Integrantes:
 
-Yesid Carrillo
-David Leon
+- Yesid Carrillo
+- David Leon
