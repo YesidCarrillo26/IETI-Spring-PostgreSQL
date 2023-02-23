@@ -1,10 +1,11 @@
 package com.example.demo.model;
 
+import com.example.demo.dto.UserDto;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
-import jakarta.persistence.Table;
-import org.springframework.data.annotation.Id;
+import jakarta.persistence.*;
+
 
 
 @Entity

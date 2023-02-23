@@ -1,13 +1,14 @@
 package com.example.demo.controller;
 
-import com.example.demo.exception.UserNotFoundException;
+import com.example.demo.UserNotFoundException;
+import com.example.demo.dto.UserDto;
 import com.example.demo.model.User;
-import com.example.demo.model.UserDto;
 import com.example.demo.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;
+
 
 @RestController
 @RequestMapping("/v1/user")
@@ -34,3 +35,4 @@ public class UserController {
     }
 
 }
+
